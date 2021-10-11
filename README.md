@@ -2,3 +2,4 @@
 Computer Laboratory 2564 - Lab 09
 
 Myname is Supawadee Salamteh
+Edited by Github Text Editor.
